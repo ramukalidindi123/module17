@@ -80,5 +80,5 @@ The dataset comes from a **Portuguese banking institution** and includes:
 
 ---
 
-> For visualizations and model performance metrics, refer to the `/notebooks` or `/reports` folder in this repository.
+
 
